@@ -1,0 +1,3118 @@
+102 shift/reduce conflicts
+
+error:  state 76: shift/reduce conflict (shift NOTEQUAL, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift GTE, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift GT, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift LTE, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift LT, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift EQUAL, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift BOOLOR, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift BOOLAND, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift INTMOD, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift INTDIV, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift INTMUL, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift INTSUB, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift INTPLUS, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift RATDIV, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift RATMUL, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift RATSUB, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift RATPLUS, reduce by rule 50)
+error:  state 77: shift/reduce conflict (shift NOTEQUAL, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift GTE, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift GT, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift LTE, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift LT, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift EQUAL, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift BOOLOR, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift BOOLAND, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift INTMOD, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift INTDIV, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift INTMUL, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift INTSUB, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift INTPLUS, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift RATDIV, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift RATMUL, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift RATSUB, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift RATPLUS, reduce by rule 24)
+error:  state 78: shift/reduce conflict (shift NOTEQUAL, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift GTE, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift GT, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift LTE, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift LT, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift EQUAL, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift BOOLOR, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift BOOLAND, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift INTMOD, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift INTDIV, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift INTMUL, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift INTSUB, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift INTPLUS, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift RATDIV, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift RATMUL, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift RATSUB, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift RATPLUS, reduce by rule 40)
+error:  state 80: shift/reduce conflict (shift NOTEQUAL, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift GTE, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift GT, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift LTE, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift LT, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift EQUAL, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift BOOLOR, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift BOOLAND, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift INTMOD, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift INTDIV, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift INTMUL, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift INTSUB, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift INTPLUS, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift RATDIV, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift RATMUL, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift RATSUB, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift RATPLUS, reduce by rule 38)
+error:  state 81: shift/reduce conflict (shift NOTEQUAL, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift GTE, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift GT, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift LTE, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift LT, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift EQUAL, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift BOOLOR, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift BOOLAND, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift INTMOD, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift INTDIV, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift INTMUL, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift INTSUB, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift INTPLUS, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift RATDIV, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift RATMUL, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift RATSUB, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift RATPLUS, reduce by rule 37)
+error:  state 83: shift/reduce conflict (shift NOTEQUAL, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift GTE, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift GT, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift LTE, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift LT, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift EQUAL, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift BOOLOR, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift BOOLAND, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift INTMOD, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift INTDIV, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift INTMUL, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift INTSUB, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift INTPLUS, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift RATDIV, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift RATMUL, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift RATSUB, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift RATPLUS, reduce by rule 35)
+
+state 0:
+
+	PROGRAM : . BLOCK 
+
+	RAT	shift 5
+	INT	reduce by rule 5
+	BOOL	reduce by rule 5
+	PROC	reduce by rule 5
+	CLPAREN	reduce by rule 5
+
+	PROGRAM	goto 118
+	BLOCK	goto 4
+	DECLS	goto 3
+	RATDECLS	goto 2
+	VARDECLS	goto 1
+
+	.	error
+
+
+state 1:
+
+	DECLS : VARDECLS . PROCDECLS 
+
+	PROC	shift 7
+	CLPAREN	reduce by rule 13
+
+	PROCDECLS	goto 6
+
+	.	error
+
+
+state 2:
+
+	VARDECLS : RATDECLS . INTDECLS BOOLDECLS 
+
+	INT	shift 9
+	BOOL	reduce by rule 7
+	PROC	reduce by rule 7
+	CLPAREN	reduce by rule 7
+
+	INTDECLS	goto 8
+
+	.	error
+
+
+state 3:
+
+	BLOCK : DECLS . TCOMMANDS 
+
+	CLPAREN	shift 11
+
+	TCOMMANDS	goto 10
+
+	.	error
+
+
+state 4:
+
+	PROGRAM : BLOCK .  (reduce by rule 0)
+
+	EOF	reduce by rule 0
+
+
+	.	error
+
+
+state 5:
+
+	RATDECLS : RAT . STRID 
+
+	ID	shift 13
+
+	STRID	goto 12
+
+	.	error
+
+
+state 6:
+
+	DECLS : VARDECLS PROCDECLS .  (reduce by rule 2)
+
+	CLPAREN	reduce by rule 2
+
+
+	.	error
+
+
+state 7:
+
+	PROCDECLS : PROC . ID BLOCK SEMI PROCDECLS 
+
+	ID	shift 14
+
+
+	.	error
+
+
+state 8:
+
+	VARDECLS : RATDECLS INTDECLS . BOOLDECLS 
+
+	BOOL	shift 16
+	PROC	reduce by rule 9
+	CLPAREN	reduce by rule 9
+
+	BOOLDECLS	goto 15
+
+	.	error
+
+
+state 9:
+
+	INTDECLS : INT . STRID 
+
+	ID	shift 13
+
+	STRID	goto 17
+
+	.	error
+
+
+state 10:
+
+	BLOCK : DECLS TCOMMANDS .  (reduce by rule 1)
+
+	SEMI	reduce by rule 1
+	EOF	reduce by rule 1
+
+
+	.	error
+
+
+state 11:
+
+	TCOMMANDS : CLPAREN . COMMANDS CRPAREN 
+
+	IF	shift 25
+	WHILE	shift 24
+	PRINT	shift 23
+	READ	shift 22
+	CALL	shift 21
+	ID	shift 20
+	CRPAREN	reduce by rule 16
+
+	COMMANDS	goto 19
+	CMD	goto 18
+
+	.	error
+
+
+state 12:
+
+	RATDECLS : RAT STRID .  (reduce by rule 4)
+
+	INT	reduce by rule 4
+	BOOL	reduce by rule 4
+	PROC	reduce by rule 4
+	CLPAREN	reduce by rule 4
+
+
+	.	error
+
+
+state 13:
+
+	STRID : ID . SEMI 
+	STRID : ID . COMMA STRID 
+
+	SEMI	shift 27
+	COMMA	shift 26
+
+
+	.	error
+
+
+state 14:
+
+	PROCDECLS : PROC ID . BLOCK SEMI PROCDECLS 
+
+	RAT	shift 5
+	INT	reduce by rule 5
+	BOOL	reduce by rule 5
+	PROC	reduce by rule 5
+	CLPAREN	reduce by rule 5
+
+	BLOCK	goto 28
+	DECLS	goto 3
+	RATDECLS	goto 2
+	VARDECLS	goto 1
+
+	.	error
+
+
+state 15:
+
+	VARDECLS : RATDECLS INTDECLS BOOLDECLS .  (reduce by rule 3)
+
+	PROC	reduce by rule 3
+	CLPAREN	reduce by rule 3
+
+
+	.	error
+
+
+state 16:
+
+	BOOLDECLS : BOOL . STRID 
+
+	ID	shift 13
+
+	STRID	goto 29
+
+	.	error
+
+
+state 17:
+
+	INTDECLS : INT STRID .  (reduce by rule 6)
+
+	BOOL	reduce by rule 6
+	PROC	reduce by rule 6
+	CLPAREN	reduce by rule 6
+
+
+	.	error
+
+
+state 18:
+
+	COMMANDS : CMD . SEMI COMMANDS 
+
+	SEMI	shift 30
+
+
+	.	error
+
+
+state 19:
+
+	TCOMMANDS : CLPAREN COMMANDS . CRPAREN 
+
+	CRPAREN	shift 31
+
+
+	.	error
+
+
+state 20:
+
+	CMD : ID . ASSIGN EXP 
+
+	ASSIGN	shift 32
+
+
+	.	error
+
+
+state 21:
+
+	CMD : CALL . ID 
+
+	ID	shift 33
+
+
+	.	error
+
+
+state 22:
+
+	CMD : READ . LPAREN ID RPAREN 
+
+	LPAREN	shift 34
+
+
+	.	error
+
+
+state 23:
+
+	CMD : PRINT . LPAREN EXP RPAREN 
+
+	LPAREN	shift 35
+
+
+	.	error
+
+
+state 24:
+
+	CMD : WHILE . EXP DO TCOMMANDS OD 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 36
+
+	.	error
+
+
+state 25:
+
+	CMD : IF . EXP THEN TCOMMANDS ELSE TCOMMANDS FI 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 50
+
+	.	error
+
+
+state 26:
+
+	STRID : ID COMMA . STRID 
+
+	ID	shift 13
+
+	STRID	goto 51
+
+	.	error
+
+
+state 27:
+
+	STRID : ID SEMI .  (reduce by rule 10)
+
+	INT	reduce by rule 10
+	BOOL	reduce by rule 10
+	PROC	reduce by rule 10
+	CLPAREN	reduce by rule 10
+
+
+	.	error
+
+
+state 28:
+
+	PROCDECLS : PROC ID BLOCK . SEMI PROCDECLS 
+
+	SEMI	shift 52
+
+
+	.	error
+
+
+state 29:
+
+	BOOLDECLS : BOOL STRID .  (reduce by rule 8)
+
+	PROC	reduce by rule 8
+	CLPAREN	reduce by rule 8
+
+
+	.	error
+
+
+state 30:
+
+	COMMANDS : CMD SEMI . COMMANDS 
+
+	IF	shift 25
+	WHILE	shift 24
+	PRINT	shift 23
+	READ	shift 22
+	CALL	shift 21
+	ID	shift 20
+	CRPAREN	reduce by rule 16
+
+	COMMANDS	goto 53
+	CMD	goto 18
+
+	.	error
+
+
+state 31:
+
+	TCOMMANDS : CLPAREN COMMANDS CRPAREN .  (reduce by rule 14)
+
+	ELSE	reduce by rule 14
+	FI	reduce by rule 14
+	OD	reduce by rule 14
+	SEMI	reduce by rule 14
+	EOF	reduce by rule 14
+
+
+	.	error
+
+
+state 32:
+
+	CMD : ID ASSIGN . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 54
+
+	.	error
+
+
+state 33:
+
+	CMD : CALL ID .  (reduce by rule 18)
+
+	SEMI	reduce by rule 18
+
+
+	.	error
+
+
+state 34:
+
+	CMD : READ LPAREN . ID RPAREN 
+
+	ID	shift 55
+
+
+	.	error
+
+
+state 35:
+
+	CMD : PRINT LPAREN . EXP RPAREN 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 56
+
+	.	error
+
+
+state 36:
+
+	CMD : WHILE EXP . DO TCOMMANDS OD 
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	DO	shift 74
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 37:
+
+	EXP : ID .  (reduce by rule 51)
+
+	THEN	reduce by rule 51
+	DO	reduce by rule 51
+	RATPLUS	reduce by rule 51
+	RATSUB	reduce by rule 51
+	RATMUL	reduce by rule 51
+	RATDIV	reduce by rule 51
+	INTPLUS	reduce by rule 51
+	INTSUB	reduce by rule 51
+	INTMUL	reduce by rule 51
+	INTDIV	reduce by rule 51
+	INTMOD	reduce by rule 51
+	BOOLAND	reduce by rule 51
+	BOOLOR	reduce by rule 51
+	EQUAL	reduce by rule 51
+	LT	reduce by rule 51
+	LTE	reduce by rule 51
+	GT	reduce by rule 51
+	GTE	reduce by rule 51
+	RPAREN	reduce by rule 51
+	SEMI	reduce by rule 51
+	COMMA	reduce by rule 51
+	NOTEQUAL	reduce by rule 51
+
+
+	.	error
+
+
+state 38:
+
+	EXP : RATNUM .  (reduce by rule 30)
+
+	THEN	reduce by rule 30
+	DO	reduce by rule 30
+	RATPLUS	reduce by rule 30
+	RATSUB	reduce by rule 30
+	RATMUL	reduce by rule 30
+	RATDIV	reduce by rule 30
+	INTPLUS	reduce by rule 30
+	INTSUB	reduce by rule 30
+	INTMUL	reduce by rule 30
+	INTDIV	reduce by rule 30
+	INTMOD	reduce by rule 30
+	BOOLAND	reduce by rule 30
+	BOOLOR	reduce by rule 30
+	EQUAL	reduce by rule 30
+	LT	reduce by rule 30
+	LTE	reduce by rule 30
+	GT	reduce by rule 30
+	GTE	reduce by rule 30
+	RPAREN	reduce by rule 30
+	SEMI	reduce by rule 30
+	COMMA	reduce by rule 30
+	NOTEQUAL	reduce by rule 30
+
+
+	.	error
+
+
+state 39:
+
+	EXP : INTNUM .  (reduce by rule 23)
+
+	THEN	reduce by rule 23
+	DO	reduce by rule 23
+	RATPLUS	reduce by rule 23
+	RATSUB	reduce by rule 23
+	RATMUL	reduce by rule 23
+	RATDIV	reduce by rule 23
+	INTPLUS	reduce by rule 23
+	INTSUB	reduce by rule 23
+	INTMUL	reduce by rule 23
+	INTDIV	reduce by rule 23
+	INTMOD	reduce by rule 23
+	BOOLAND	reduce by rule 23
+	BOOLOR	reduce by rule 23
+	EQUAL	reduce by rule 23
+	LT	reduce by rule 23
+	LTE	reduce by rule 23
+	GT	reduce by rule 23
+	GTE	reduce by rule 23
+	RPAREN	reduce by rule 23
+	SEMI	reduce by rule 23
+	COMMA	reduce by rule 23
+	NOTEQUAL	reduce by rule 23
+
+
+	.	error
+
+
+state 40:
+
+	EXP : LPAREN . EXP RPAREN 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 75
+
+	.	error
+
+
+state 41:
+
+	EXP : BOOLNEG . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 76
+
+	.	error
+
+
+state 42:
+
+	EXP : INTNEG . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 77
+
+	.	error
+
+
+state 43:
+
+	EXP : TODECI . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 78
+
+	.	error
+
+
+state 44:
+
+	EXP : FROMDECI . LPAREN RATNUM RPAREN 
+
+	LPAREN	shift 79
+
+
+	.	error
+
+
+state 45:
+
+	EXP : SHOWDECI . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 80
+
+	.	error
+
+
+state 46:
+
+	EXP : SHOWRAT . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 81
+
+	.	error
+
+
+state 47:
+
+	EXP : MAKERAT . LPAREN EXP COMMA EXP RPAREN 
+
+	LPAREN	shift 82
+
+
+	.	error
+
+
+state 48:
+
+	EXP : RATINV . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 83
+
+	.	error
+
+
+state 49:
+
+	EXP : BOOLNUM .  (reduce by rule 41)
+
+	THEN	reduce by rule 41
+	DO	reduce by rule 41
+	RATPLUS	reduce by rule 41
+	RATSUB	reduce by rule 41
+	RATMUL	reduce by rule 41
+	RATDIV	reduce by rule 41
+	INTPLUS	reduce by rule 41
+	INTSUB	reduce by rule 41
+	INTMUL	reduce by rule 41
+	INTDIV	reduce by rule 41
+	INTMOD	reduce by rule 41
+	BOOLAND	reduce by rule 41
+	BOOLOR	reduce by rule 41
+	EQUAL	reduce by rule 41
+	LT	reduce by rule 41
+	LTE	reduce by rule 41
+	GT	reduce by rule 41
+	GTE	reduce by rule 41
+	RPAREN	reduce by rule 41
+	SEMI	reduce by rule 41
+	COMMA	reduce by rule 41
+	NOTEQUAL	reduce by rule 41
+
+
+	.	error
+
+
+state 50:
+
+	CMD : IF EXP . THEN TCOMMANDS ELSE TCOMMANDS FI 
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	shift 84
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 51:
+
+	STRID : ID COMMA STRID .  (reduce by rule 11)
+
+	INT	reduce by rule 11
+	BOOL	reduce by rule 11
+	PROC	reduce by rule 11
+	CLPAREN	reduce by rule 11
+
+
+	.	error
+
+
+state 52:
+
+	PROCDECLS : PROC ID BLOCK SEMI . PROCDECLS 
+
+	PROC	shift 7
+	CLPAREN	reduce by rule 13
+
+	PROCDECLS	goto 85
+
+	.	error
+
+
+state 53:
+
+	COMMANDS : CMD SEMI COMMANDS .  (reduce by rule 15)
+
+	CRPAREN	reduce by rule 15
+
+
+	.	error
+
+
+state 54:
+
+	CMD : ID ASSIGN EXP .  (reduce by rule 17)
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	SEMI	reduce by rule 17
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 55:
+
+	CMD : READ LPAREN ID . RPAREN 
+
+	RPAREN	shift 86
+
+
+	.	error
+
+
+state 56:
+
+	CMD : PRINT LPAREN EXP . RPAREN 
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	shift 87
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 57:
+
+	EXP : EXP NOTEQUAL . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 88
+
+	.	error
+
+
+state 58:
+
+	EXP : EXP GTE . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 89
+
+	.	error
+
+
+state 59:
+
+	EXP : EXP GT . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 90
+
+	.	error
+
+
+state 60:
+
+	EXP : EXP LTE . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 91
+
+	.	error
+
+
+state 61:
+
+	EXP : EXP LT . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 92
+
+	.	error
+
+
+state 62:
+
+	EXP : EXP EQUAL . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 93
+
+	.	error
+
+
+state 63:
+
+	EXP : EXP BOOLOR . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 94
+
+	.	error
+
+
+state 64:
+
+	EXP : EXP BOOLAND . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 95
+
+	.	error
+
+
+state 65:
+
+	EXP : EXP INTMOD . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 96
+
+	.	error
+
+
+state 66:
+
+	EXP : EXP INTDIV . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 97
+
+	.	error
+
+
+state 67:
+
+	EXP : EXP INTMUL . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 98
+
+	.	error
+
+
+state 68:
+
+	EXP : EXP INTSUB . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 99
+
+	.	error
+
+
+state 69:
+
+	EXP : EXP INTPLUS . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 100
+
+	.	error
+
+
+state 70:
+
+	EXP : EXP RATDIV . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 101
+
+	.	error
+
+
+state 71:
+
+	EXP : EXP RATMUL . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 102
+
+	.	error
+
+
+state 72:
+
+	EXP : EXP RATSUB . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 103
+
+	.	error
+
+
+state 73:
+
+	EXP : EXP RATPLUS . EXP 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 104
+
+	.	error
+
+
+state 74:
+
+	CMD : WHILE EXP DO . TCOMMANDS OD 
+
+	CLPAREN	shift 11
+
+	TCOMMANDS	goto 105
+
+	.	error
+
+
+state 75:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+	EXP : LPAREN EXP . RPAREN 
+
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	shift 106
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+error:  state 76: shift/reduce conflict (shift NOTEQUAL, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift GTE, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift GT, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift LTE, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift LT, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift EQUAL, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift BOOLOR, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift BOOLAND, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift INTMOD, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift INTDIV, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift INTMUL, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift INTSUB, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift INTPLUS, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift RATDIV, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift RATMUL, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift RATSUB, reduce by rule 50)
+error:  state 76: shift/reduce conflict (shift RATPLUS, reduce by rule 50)
+
+state 76:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+	EXP : BOOLNEG EXP .  (reduce by rule 50)
+
+	THEN	reduce by rule 50
+	DO	reduce by rule 50
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 50
+	SEMI	reduce by rule 50
+	COMMA	reduce by rule 50
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+error:  state 77: shift/reduce conflict (shift NOTEQUAL, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift GTE, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift GT, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift LTE, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift LT, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift EQUAL, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift BOOLOR, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift BOOLAND, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift INTMOD, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift INTDIV, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift INTMUL, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift INTSUB, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift INTPLUS, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift RATDIV, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift RATMUL, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift RATSUB, reduce by rule 24)
+error:  state 77: shift/reduce conflict (shift RATPLUS, reduce by rule 24)
+
+state 77:
+
+	EXP : INTNEG EXP .  (reduce by rule 24)
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 24
+	DO	reduce by rule 24
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 24
+	SEMI	reduce by rule 24
+	COMMA	reduce by rule 24
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+error:  state 78: shift/reduce conflict (shift NOTEQUAL, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift GTE, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift GT, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift LTE, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift LT, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift EQUAL, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift BOOLOR, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift BOOLAND, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift INTMOD, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift INTDIV, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift INTMUL, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift INTSUB, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift INTPLUS, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift RATDIV, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift RATMUL, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift RATSUB, reduce by rule 40)
+error:  state 78: shift/reduce conflict (shift RATPLUS, reduce by rule 40)
+
+state 78:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : TODECI EXP .  (reduce by rule 40)
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 40
+	DO	reduce by rule 40
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 40
+	SEMI	reduce by rule 40
+	COMMA	reduce by rule 40
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 79:
+
+	EXP : FROMDECI LPAREN . RATNUM RPAREN 
+
+	RATNUM	shift 107
+
+
+	.	error
+
+error:  state 80: shift/reduce conflict (shift NOTEQUAL, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift GTE, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift GT, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift LTE, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift LT, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift EQUAL, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift BOOLOR, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift BOOLAND, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift INTMOD, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift INTDIV, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift INTMUL, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift INTSUB, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift INTPLUS, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift RATDIV, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift RATMUL, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift RATSUB, reduce by rule 38)
+error:  state 80: shift/reduce conflict (shift RATPLUS, reduce by rule 38)
+
+state 80:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : SHOWDECI EXP .  (reduce by rule 38)
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 38
+	DO	reduce by rule 38
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 38
+	SEMI	reduce by rule 38
+	COMMA	reduce by rule 38
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+error:  state 81: shift/reduce conflict (shift NOTEQUAL, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift GTE, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift GT, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift LTE, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift LT, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift EQUAL, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift BOOLOR, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift BOOLAND, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift INTMOD, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift INTDIV, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift INTMUL, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift INTSUB, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift INTPLUS, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift RATDIV, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift RATMUL, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift RATSUB, reduce by rule 37)
+error:  state 81: shift/reduce conflict (shift RATPLUS, reduce by rule 37)
+
+state 81:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : SHOWRAT EXP .  (reduce by rule 37)
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 37
+	DO	reduce by rule 37
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 37
+	SEMI	reduce by rule 37
+	COMMA	reduce by rule 37
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 82:
+
+	EXP : MAKERAT LPAREN . EXP COMMA EXP RPAREN 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 108
+
+	.	error
+
+error:  state 83: shift/reduce conflict (shift NOTEQUAL, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift GTE, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift GT, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift LTE, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift LT, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift EQUAL, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift BOOLOR, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift BOOLAND, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift INTMOD, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift INTDIV, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift INTMUL, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift INTSUB, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift INTPLUS, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift RATDIV, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift RATMUL, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift RATSUB, reduce by rule 35)
+error:  state 83: shift/reduce conflict (shift RATPLUS, reduce by rule 35)
+
+state 83:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : RATINV EXP .  (reduce by rule 35)
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 35
+	DO	reduce by rule 35
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 35
+	SEMI	reduce by rule 35
+	COMMA	reduce by rule 35
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 84:
+
+	CMD : IF EXP THEN . TCOMMANDS ELSE TCOMMANDS FI 
+
+	CLPAREN	shift 11
+
+	TCOMMANDS	goto 109
+
+	.	error
+
+
+state 85:
+
+	PROCDECLS : PROC ID BLOCK SEMI PROCDECLS .  (reduce by rule 12)
+
+	CLPAREN	reduce by rule 12
+
+
+	.	error
+
+
+state 86:
+
+	CMD : READ LPAREN ID RPAREN .  (reduce by rule 19)
+
+	SEMI	reduce by rule 19
+
+
+	.	error
+
+
+state 87:
+
+	CMD : PRINT LPAREN EXP RPAREN .  (reduce by rule 20)
+
+	SEMI	reduce by rule 20
+
+
+	.	error
+
+
+state 88:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP NOTEQUAL EXP .  (reduce by rule 47)
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 47
+	DO	reduce by rule 47
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 47
+	SEMI	reduce by rule 47
+	COMMA	reduce by rule 47
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 89:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP GTE EXP .  (reduce by rule 43)
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 43
+	DO	reduce by rule 43
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 43
+	SEMI	reduce by rule 43
+	COMMA	reduce by rule 43
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 90:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP GT EXP .  (reduce by rule 42)
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 42
+	DO	reduce by rule 42
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 42
+	SEMI	reduce by rule 42
+	COMMA	reduce by rule 42
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 91:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP LTE EXP .  (reduce by rule 45)
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 45
+	DO	reduce by rule 45
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 45
+	SEMI	reduce by rule 45
+	COMMA	reduce by rule 45
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 92:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP LT EXP .  (reduce by rule 44)
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 44
+	DO	reduce by rule 44
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 44
+	SEMI	reduce by rule 44
+	COMMA	reduce by rule 44
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 93:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP EQUAL EXP .  (reduce by rule 46)
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 46
+	DO	reduce by rule 46
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	reduce by rule 46
+	SEMI	reduce by rule 46
+	COMMA	reduce by rule 46
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 94:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+	EXP : EXP BOOLOR EXP .  (reduce by rule 49)
+
+	THEN	reduce by rule 49
+	DO	reduce by rule 49
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	reduce by rule 49
+	BOOLOR	reduce by rule 49
+	EQUAL	reduce by rule 49
+	LT	reduce by rule 49
+	LTE	reduce by rule 49
+	GT	reduce by rule 49
+	GTE	reduce by rule 49
+	RPAREN	reduce by rule 49
+	SEMI	reduce by rule 49
+	COMMA	reduce by rule 49
+	NOTEQUAL	reduce by rule 49
+
+
+	.	error
+
+
+state 95:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP BOOLAND EXP .  (reduce by rule 48)
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 48
+	DO	reduce by rule 48
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	reduce by rule 48
+	BOOLOR	reduce by rule 48
+	EQUAL	reduce by rule 48
+	LT	reduce by rule 48
+	LTE	reduce by rule 48
+	GT	reduce by rule 48
+	GTE	reduce by rule 48
+	RPAREN	reduce by rule 48
+	SEMI	reduce by rule 48
+	COMMA	reduce by rule 48
+	NOTEQUAL	reduce by rule 48
+
+
+	.	error
+
+
+state 96:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP INTMOD EXP .  (reduce by rule 29)
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 29
+	DO	reduce by rule 29
+	RATPLUS	reduce by rule 29
+	RATSUB	reduce by rule 29
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	reduce by rule 29
+	INTSUB	reduce by rule 29
+	INTMUL	reduce by rule 29
+	INTDIV	reduce by rule 29
+	INTMOD	reduce by rule 29
+	BOOLAND	reduce by rule 29
+	BOOLOR	reduce by rule 29
+	EQUAL	reduce by rule 29
+	LT	reduce by rule 29
+	LTE	reduce by rule 29
+	GT	reduce by rule 29
+	GTE	reduce by rule 29
+	RPAREN	reduce by rule 29
+	SEMI	reduce by rule 29
+	COMMA	reduce by rule 29
+	NOTEQUAL	reduce by rule 29
+
+
+	.	error
+
+
+state 97:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP INTDIV EXP .  (reduce by rule 28)
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 28
+	DO	reduce by rule 28
+	RATPLUS	reduce by rule 28
+	RATSUB	reduce by rule 28
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	reduce by rule 28
+	INTSUB	reduce by rule 28
+	INTMUL	reduce by rule 28
+	INTDIV	reduce by rule 28
+	INTMOD	reduce by rule 28
+	BOOLAND	reduce by rule 28
+	BOOLOR	reduce by rule 28
+	EQUAL	reduce by rule 28
+	LT	reduce by rule 28
+	LTE	reduce by rule 28
+	GT	reduce by rule 28
+	GTE	reduce by rule 28
+	RPAREN	reduce by rule 28
+	SEMI	reduce by rule 28
+	COMMA	reduce by rule 28
+	NOTEQUAL	reduce by rule 28
+
+
+	.	error
+
+
+state 98:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP INTMUL EXP .  (reduce by rule 27)
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 27
+	DO	reduce by rule 27
+	RATPLUS	reduce by rule 27
+	RATSUB	reduce by rule 27
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	reduce by rule 27
+	INTSUB	reduce by rule 27
+	INTMUL	reduce by rule 27
+	INTDIV	reduce by rule 27
+	INTMOD	reduce by rule 27
+	BOOLAND	reduce by rule 27
+	BOOLOR	reduce by rule 27
+	EQUAL	reduce by rule 27
+	LT	reduce by rule 27
+	LTE	reduce by rule 27
+	GT	reduce by rule 27
+	GTE	reduce by rule 27
+	RPAREN	reduce by rule 27
+	SEMI	reduce by rule 27
+	COMMA	reduce by rule 27
+	NOTEQUAL	reduce by rule 27
+
+
+	.	error
+
+
+state 99:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP INTSUB EXP .  (reduce by rule 26)
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 26
+	DO	reduce by rule 26
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	reduce by rule 26
+	INTSUB	reduce by rule 26
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	reduce by rule 26
+	BOOLOR	reduce by rule 26
+	EQUAL	reduce by rule 26
+	LT	reduce by rule 26
+	LTE	reduce by rule 26
+	GT	reduce by rule 26
+	GTE	reduce by rule 26
+	RPAREN	reduce by rule 26
+	SEMI	reduce by rule 26
+	COMMA	reduce by rule 26
+	NOTEQUAL	reduce by rule 26
+
+
+	.	error
+
+
+state 100:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP INTPLUS EXP .  (reduce by rule 25)
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 25
+	DO	reduce by rule 25
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	reduce by rule 25
+	INTSUB	reduce by rule 25
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	reduce by rule 25
+	BOOLOR	reduce by rule 25
+	EQUAL	reduce by rule 25
+	LT	reduce by rule 25
+	LTE	reduce by rule 25
+	GT	reduce by rule 25
+	GTE	reduce by rule 25
+	RPAREN	reduce by rule 25
+	SEMI	reduce by rule 25
+	COMMA	reduce by rule 25
+	NOTEQUAL	reduce by rule 25
+
+
+	.	error
+
+
+state 101:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP RATDIV EXP .  (reduce by rule 34)
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 34
+	DO	reduce by rule 34
+	RATPLUS	reduce by rule 34
+	RATSUB	reduce by rule 34
+	RATMUL	reduce by rule 34
+	RATDIV	reduce by rule 34
+	INTPLUS	reduce by rule 34
+	INTSUB	reduce by rule 34
+	INTMUL	reduce by rule 34
+	INTDIV	reduce by rule 34
+	INTMOD	reduce by rule 34
+	BOOLAND	reduce by rule 34
+	BOOLOR	reduce by rule 34
+	EQUAL	reduce by rule 34
+	LT	reduce by rule 34
+	LTE	reduce by rule 34
+	GT	reduce by rule 34
+	GTE	reduce by rule 34
+	RPAREN	reduce by rule 34
+	SEMI	reduce by rule 34
+	COMMA	reduce by rule 34
+	NOTEQUAL	reduce by rule 34
+
+
+	.	error
+
+
+state 102:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP RATMUL EXP .  (reduce by rule 33)
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 33
+	DO	reduce by rule 33
+	RATPLUS	reduce by rule 33
+	RATSUB	reduce by rule 33
+	RATMUL	reduce by rule 33
+	RATDIV	reduce by rule 33
+	INTPLUS	reduce by rule 33
+	INTSUB	reduce by rule 33
+	INTMUL	reduce by rule 33
+	INTDIV	reduce by rule 33
+	INTMOD	reduce by rule 33
+	BOOLAND	reduce by rule 33
+	BOOLOR	reduce by rule 33
+	EQUAL	reduce by rule 33
+	LT	reduce by rule 33
+	LTE	reduce by rule 33
+	GT	reduce by rule 33
+	GTE	reduce by rule 33
+	RPAREN	reduce by rule 33
+	SEMI	reduce by rule 33
+	COMMA	reduce by rule 33
+	NOTEQUAL	reduce by rule 33
+
+
+	.	error
+
+
+state 103:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP RATSUB EXP .  (reduce by rule 32)
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 32
+	DO	reduce by rule 32
+	RATPLUS	reduce by rule 32
+	RATSUB	reduce by rule 32
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	reduce by rule 32
+	INTSUB	reduce by rule 32
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	reduce by rule 32
+	BOOLOR	reduce by rule 32
+	EQUAL	reduce by rule 32
+	LT	reduce by rule 32
+	LTE	reduce by rule 32
+	GT	reduce by rule 32
+	GTE	reduce by rule 32
+	RPAREN	reduce by rule 32
+	SEMI	reduce by rule 32
+	COMMA	reduce by rule 32
+	NOTEQUAL	reduce by rule 32
+
+
+	.	error
+
+
+state 104:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP RATPLUS EXP .  (reduce by rule 31)
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	THEN	reduce by rule 31
+	DO	reduce by rule 31
+	RATPLUS	reduce by rule 31
+	RATSUB	reduce by rule 31
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	reduce by rule 31
+	INTSUB	reduce by rule 31
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	reduce by rule 31
+	BOOLOR	reduce by rule 31
+	EQUAL	reduce by rule 31
+	LT	reduce by rule 31
+	LTE	reduce by rule 31
+	GT	reduce by rule 31
+	GTE	reduce by rule 31
+	RPAREN	reduce by rule 31
+	SEMI	reduce by rule 31
+	COMMA	reduce by rule 31
+	NOTEQUAL	reduce by rule 31
+
+
+	.	error
+
+
+state 105:
+
+	CMD : WHILE EXP DO TCOMMANDS . OD 
+
+	OD	shift 110
+
+
+	.	error
+
+
+state 106:
+
+	EXP : LPAREN EXP RPAREN .  (reduce by rule 52)
+
+	THEN	reduce by rule 52
+	DO	reduce by rule 52
+	RATPLUS	reduce by rule 52
+	RATSUB	reduce by rule 52
+	RATMUL	reduce by rule 52
+	RATDIV	reduce by rule 52
+	INTPLUS	reduce by rule 52
+	INTSUB	reduce by rule 52
+	INTMUL	reduce by rule 52
+	INTDIV	reduce by rule 52
+	INTMOD	reduce by rule 52
+	BOOLAND	reduce by rule 52
+	BOOLOR	reduce by rule 52
+	EQUAL	reduce by rule 52
+	LT	reduce by rule 52
+	LTE	reduce by rule 52
+	GT	reduce by rule 52
+	GTE	reduce by rule 52
+	RPAREN	reduce by rule 52
+	SEMI	reduce by rule 52
+	COMMA	reduce by rule 52
+	NOTEQUAL	reduce by rule 52
+
+
+	.	error
+
+
+state 107:
+
+	EXP : FROMDECI LPAREN RATNUM . RPAREN 
+
+	RPAREN	shift 111
+
+
+	.	error
+
+
+state 108:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : MAKERAT LPAREN EXP . COMMA EXP RPAREN 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	COMMA	shift 112
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 109:
+
+	CMD : IF EXP THEN TCOMMANDS . ELSE TCOMMANDS FI 
+
+	ELSE	shift 113
+
+
+	.	error
+
+
+state 110:
+
+	CMD : WHILE EXP DO TCOMMANDS OD .  (reduce by rule 21)
+
+	SEMI	reduce by rule 21
+
+
+	.	error
+
+
+state 111:
+
+	EXP : FROMDECI LPAREN RATNUM RPAREN .  (reduce by rule 39)
+
+	THEN	reduce by rule 39
+	DO	reduce by rule 39
+	RATPLUS	reduce by rule 39
+	RATSUB	reduce by rule 39
+	RATMUL	reduce by rule 39
+	RATDIV	reduce by rule 39
+	INTPLUS	reduce by rule 39
+	INTSUB	reduce by rule 39
+	INTMUL	reduce by rule 39
+	INTDIV	reduce by rule 39
+	INTMOD	reduce by rule 39
+	BOOLAND	reduce by rule 39
+	BOOLOR	reduce by rule 39
+	EQUAL	reduce by rule 39
+	LT	reduce by rule 39
+	LTE	reduce by rule 39
+	GT	reduce by rule 39
+	GTE	reduce by rule 39
+	RPAREN	reduce by rule 39
+	SEMI	reduce by rule 39
+	COMMA	reduce by rule 39
+	NOTEQUAL	reduce by rule 39
+
+
+	.	error
+
+
+state 112:
+
+	EXP : MAKERAT LPAREN EXP COMMA . EXP RPAREN 
+
+	BOOLNUM	shift 49
+	RATINV	shift 48
+	MAKERAT	shift 47
+	SHOWRAT	shift 46
+	SHOWDECI	shift 45
+	FROMDECI	shift 44
+	TODECI	shift 43
+	INTNEG	shift 42
+	BOOLNEG	shift 41
+	LPAREN	shift 40
+	INTNUM	shift 39
+	RATNUM	shift 38
+	ID	shift 37
+
+	EXP	goto 114
+
+	.	error
+
+
+state 113:
+
+	CMD : IF EXP THEN TCOMMANDS ELSE . TCOMMANDS FI 
+
+	CLPAREN	shift 11
+
+	TCOMMANDS	goto 115
+
+	.	error
+
+
+state 114:
+
+	EXP : EXP . INTPLUS EXP 
+	EXP : EXP . INTSUB EXP 
+	EXP : EXP . INTMUL EXP 
+	EXP : EXP . INTDIV EXP 
+	EXP : EXP . INTMOD EXP 
+	EXP : EXP . RATPLUS EXP 
+	EXP : EXP . RATSUB EXP 
+	EXP : EXP . RATMUL EXP 
+	EXP : EXP . RATDIV EXP 
+	EXP : MAKERAT LPAREN EXP COMMA EXP . RPAREN 
+	EXP : EXP . GT EXP 
+	EXP : EXP . GTE EXP 
+	EXP : EXP . LT EXP 
+	EXP : EXP . LTE EXP 
+	EXP : EXP . EQUAL EXP 
+	EXP : EXP . NOTEQUAL EXP 
+	EXP : EXP . BOOLAND EXP 
+	EXP : EXP . BOOLOR EXP 
+
+	RATPLUS	shift 73
+	RATSUB	shift 72
+	RATMUL	shift 71
+	RATDIV	shift 70
+	INTPLUS	shift 69
+	INTSUB	shift 68
+	INTMUL	shift 67
+	INTDIV	shift 66
+	INTMOD	shift 65
+	BOOLAND	shift 64
+	BOOLOR	shift 63
+	EQUAL	shift 62
+	LT	shift 61
+	LTE	shift 60
+	GT	shift 59
+	GTE	shift 58
+	RPAREN	shift 116
+	NOTEQUAL	shift 57
+
+
+	.	error
+
+
+state 115:
+
+	CMD : IF EXP THEN TCOMMANDS ELSE TCOMMANDS . FI 
+
+	FI	shift 117
+
+
+	.	error
+
+
+state 116:
+
+	EXP : MAKERAT LPAREN EXP COMMA EXP RPAREN .  (reduce by rule 36)
+
+	THEN	reduce by rule 36
+	DO	reduce by rule 36
+	RATPLUS	reduce by rule 36
+	RATSUB	reduce by rule 36
+	RATMUL	reduce by rule 36
+	RATDIV	reduce by rule 36
+	INTPLUS	reduce by rule 36
+	INTSUB	reduce by rule 36
+	INTMUL	reduce by rule 36
+	INTDIV	reduce by rule 36
+	INTMOD	reduce by rule 36
+	BOOLAND	reduce by rule 36
+	BOOLOR	reduce by rule 36
+	EQUAL	reduce by rule 36
+	LT	reduce by rule 36
+	LTE	reduce by rule 36
+	GT	reduce by rule 36
+	GTE	reduce by rule 36
+	RPAREN	reduce by rule 36
+	SEMI	reduce by rule 36
+	COMMA	reduce by rule 36
+	NOTEQUAL	reduce by rule 36
+
+
+	.	error
+
+
+state 117:
+
+	CMD : IF EXP THEN TCOMMANDS ELSE TCOMMANDS FI .  (reduce by rule 22)
+
+	SEMI	reduce by rule 22
+
+
+	.	error
+
+
+state 118:
+
+
+	EOF	accept
+
+
+	.	error
+
+877 of 1393 action table entries left after compaction
+55 goto table entries

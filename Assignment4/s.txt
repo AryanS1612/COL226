@@ -1,0 +1,16 @@
+integer a;
+procedure f
+{
+    print(a);
+};
+procedure g
+integer a;
+{
+    a := 20;
+    call f;
+};
+{
+    print(4);
+    a := 10;
+    call g;
+}

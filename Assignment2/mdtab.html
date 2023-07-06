@@ -1,0 +1,185 @@
+<p><center>
+
+<h1>Department of Computer Science and Engineering</h1>
+</h1>
+<h3> Programming Languages</h3>
+</h3>
+<h6> II Semester 2022-23</h6>
+</h6>
+<h:> Instructor: [S. Arun-Kumar]</h:>
+</h:>
+<h?> Assignment: MDT: A translator from Markdown--  to HTML text with tables</h?>
+</center></h?>
+</h?>
+<hE> Introduction</hE>
+</hE>
+HTML is often too verbose and complicated for most static pages like this</hE>
+one. Most writers of web-pages require only the simplest HTML mark-ups</hE>
+with the fewest possible options and even fewer special symbols. For</hE>
+such simple web-pages it suffices to use a few simple symbols to</hE>
+format the text written in a text editor (such as <em>gedit</em>, <em>Emacs</em> or even</hE>
+<em>notepad</em>) as an HTML document.</hE>
+</hE>
+These considerations led to the design of <em><a href="https://daringfireball.net/projects/markdown/syntax">markdown</a></em> which is a simple</hE>
+program that converts text into HTML with a minimum number of "markup"</hE>
+symbols. There are now several versions with various sophisticated</hE>
+features that can do most things such as convert the markdown file</hE>
+into HTML or LaTex or even directly into pdf.</hE>
+</hE>
+The original markdown did not support HTML tables. So we add that as</hE>
+an essential feature with its own markdown syntax along with some more</hE>
+simplifications by stripping down and changing some functionalities. </hE>
+</hE>
+<hJ> Markdown--: Essentials</hJ>
+</hJ>
+10. This HTML file <tt>mdtab-2023.md.html</tt> was produced by running</hJ>
+<a href="https://daringfireball.net/projects/markdown/syntax">markdown</a> on the text file <tt>mdtab-2023.md</tt>.</hJ>
+Use the <a href="https://www.cse.iitd.ac.in/~sak/courses/pl/2022-23/ass/mdtab-2023.md">text</a> file to test your own program.</hJ>
+</hJ>
+8. To know about markdown go to the <a href="https://daringfireball.net/projects/markdown/syntax">markdown syntax</a></hJ>
+page maintained by John Gruber. Many of the simplifications listed</hJ>
+below also refer to Gruber's document. </hJ>
+</hJ>
+4. Recognize and leave all inline HTML tags unchanged.</hJ>
+</hJ>
+5. <b>Headings.</b> Do not implement the underlining feature of </hJ>
+markdown. Implement only the headings defined by hashes. </hJ>
+Hence you must implement the 6 levels of headings which </hJ>
+are the levels shown in</hJ>
+the centered lines at the beginning of this document. The</hJ>
+number of hashes at the beginning of the line indicates the </hJ>
+heading level.</hJ>
+</hJ>
+3. Implement the following for pure text elements -- </hJ>
+Use of double asterisks for <b>bolding</b> and single asterisks for</hJ>
+<em>italics</em>.</hJ>
+There is nothing in markdown for underlining -- under-scores are</hJ>
+used for italics and bolding as an alternative to</hJ>
+asterisks. Instead implement underlining as follows.</hJ>
+Example: "_underlined_text_" produces <u>underlined text</u>).</hJ>
+</hJ>
+9. <b>Horizontal Ruling</b>. Implement only the code corresponding to</hJ>
+the use of at least 3 consecutive hypens (<hr>) to produce</hJ>
+a horizontal line.</hJ>
+</hJ>
+2. <b>Block quotes.</b> Implement only the email-style block-quoting</hJ>
+(i.e. every line in a block quote should begin with >, </hJ>
+otherwise it is not a block quote) along with the nested</hJ>
+block-quoting.</hJ>
+</hJ>
+6. <b>Links.</b> Implement the direct href produced by the</hJ>
+using the "[text](http://url/of/the/link)" syntax. Also implement the</hJ>
+automatic links feature e.g.</hJ>
+<a href="http://www.cse.iitd.ac.in/~sak">http://www.cse.iitd.ac.in/~sak</a></hJ>
+renders as <a href="http://www.cse.iitd.ac.in/~sak">http://www.cse.iitd.ac.in/~sak</a> which</hJ>
+provides the URL and the link to the URL.</hJ>
+</hJ>
+</hJ>
+7. <b>Lists.</b> Implement </hJ>
+</hJ>
+- <em>ordered lists</em> -- as given by <a href="https://daringfireball.net/projects/markdown/syntax">John Gruber</a>. Pay particular </hJ>
+attention to his 1986 example relating to escape sequencing the</hJ>
+"." in case 1986 comes at the beginning of a line.</hJ>
+- <em>unordered lists</em> -- implement only the hyphen (as done here).</hJ>
+</hJ>
+1. Implement tables from csv format. Make the simplifying assumption that a HTML table is always</hJ>
+centered. For example the following is</hJ>
+</hJ>
+<<</hJ>
+1|2|3|4|9</hJ>
+5|6|7|8|10</hJ>
+11|12|13|14|15</hJ>
+>></hJ>
+</hJ>
+a possible syntax for an HTML table that looks like</hJ>
+</hJ>
+<CENTER><TABLE border="1"></hJ>
+<TR><TD>1</TD><TD>2</TD><TD>3</TD><TD>4</TD><TD>9</TD></TR></hJ>
+<TR><TD>5</TD><TD>6</TD><TD>7</TD><TD>8</TD><TD>10</TD></TR></hJ>
+<TR><TD>11</TD><TD>12</TD><TD>13</TD><TD>14</TD><TD>15</TD></TR></hJ>
+</TABLE></CENTER></hJ>
+</hJ>
+</hJ>
+<hO> What you need to do.</hO>
+</hO>
+Write a SML function <tt>mdt2html</tt> which takes a single input text</hO>
+file <em>filename</em>.<tt>mdt</tt> and translates it into a HTML file</hO>
+<em>filename</em>.<tt>html</tt> that may be viewed on any browser. Your SML file</hO>
+should be called <tt>mdt2html.sml</tt></hO>
+</hO>
+You may use all the functionalities given in the <tt>TextIO</tt> and</hO>
+the <tt>String</tt> modules of</hO>
+SML. While this requires using some of the impure features of SML,</hO>
+your primary focus should be on not using the imperative constructs of</hO>
+SML -- such as loops and assignment -- unless absolutely essential.</hO>
+</hO>
+<hT> Note:</hT>
+</hT>
+</hT>
+0. Since the above description is as clear as I can possibly make it, If you</hT>
+still have some doubts, <font color=red>make reasonable design</hT>
+decisions</font> and explicitly state them in a <tt>README.mdt</tt></hT>
+to be submitted along with your code.</hT>
+</hT>
+1. Upload and submit a single zip file called <em>entryno</em><tt>.zip</tt></hT>
+where <em>entryno</em> is your entry number. This file should contain the</hT>
+two files <tt>mdt2html.sml</tt> and <tt>README.mdt</tt>.</hT>
+</hT>
+2. You are <u>not</u> allowed to change any of the names</hT>
+or types given in the specification/signature. You are not even</hT>
+allowed to change upper-case letters to lower-case letters or</hT>
+vice-versa.</hT>
+</hT>
+3. The evaluator may use automatic scripts to evaluate the</hT>
+assignments (especially when the number of submissions is large) and</hT>
+penalise you for deviating from the instructions.</hT>
+</hT>
+4. You may define any new auxiliary functions/predicates you like in your code</hT>
+besides those mentioned in the specification.</hT>
+</hT>
+5. Your program should implement the given specifications/signature.</hT>
+</hT>
+6. You need to think of the <em>most efficient</em> way of</hT>
+implementing the various functions in a <em>functional</em> style given in the</hT>
+specification/signature so that the function results satisfy their</hT>
+definitions and properties.</hT>
+</hT>
+7. In a large class or in a large assignment, it is not always</hT>
+possible to specify every single design detail and clear each and every</hT>
+doubt. So you need to submit a <tt>README.mdt</tt> file containing</hT>
+</hT>
+</hT>
+- all the decisions (they could be design decisions or</hT>
+resolution of ambiguities present in the assignment) that you have</hT>
+taken in order to solve the problem. Whether your decision is</hT>
+``reasonable'' will be evaluated by the evaluator of the</hT>
+assignment.</hT>
+</hT>
+- a description of  which code you have</hT>
+``borrowed'' from various sources, along with the identity of the</hT>
+source.</hT>
+</hT>
+- all sources that you have consulted in solving the assignment.</hT>
+</hT>
+- name changes or signature changes if any, along with a full</hT>
+justification of why that was necessary.</hT>
+</hT>
+8. The evaluator may look at your source code before evaluating it,</hT>
+you must explain your algorithms in the form of comments, so that</hT>
+the evaluator can understand what you have implemented.</hT>
+</hT>
+9. Do <u>not</u>add any more decorations or functions or</hT>
+user-interfaces in order to impress the evaluator of the program.</hT>
+Nobody is going to be impressed by it.</hT>
+</hT>
+10. There is a serious penalty for code similarity (similarity goes</hT>
+much deeper than variable names, indentation and line numbering). If</hT>
+it is felt that there is too much similarity in the code between any</hT>
+two persons, then both are going to be penalized equally. So please</hT>
+set permissions on your directories, so that others have no access</hT>
+to your programs.</hT>
+</hT>
+11. To reduce penalties, a clear section called </hT>
+<b>Acknowledgements</b> giving a detailed list of what you copied from</hT>
+where or whom may be included in the <tt>README.mdt</tt> file.
+</p>

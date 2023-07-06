@@ -1,0 +1,3 @@
+For sequence of italics and bold using *, it is assumed that the user inputs a valid sequence. Two consecutive ** are interpreted as bold irrespective of the context. for example ***abc***, first two stars will be interpreted as bold and then similarly for the next star, it will be treated as italics. If the user wishes to add * character into the text then \* should be used.
+Similarly for links and other reserved character which are related to specail implementations, that symbol should be escaped.For Eg. \[S. Arun Kumar\] should be written this way and not [S. Arun Kumar].
+For using tables the syntax to be used is very strict, <<\n followed by the table mentioned in the webpage and then ending in >>
